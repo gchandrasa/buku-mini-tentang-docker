@@ -1,4 +1,3 @@
-buku-mini-tentang-docker
-========================
+# Tentang buku ini
 
 Sebuah buku mini tentang pengenalan dasar-dasar Docker
