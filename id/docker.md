@@ -29,7 +29,16 @@ Docker mempunyai *tagline* "Build, Ship and Run Any App, Anywhere" yang kira-kir
 
 ## Apa manfaat menggunakan Docker?
 
+* Pendistribusian aplikasi yang lebih cepat
+* Pendistribusian dan skalabilitas aplikasi menjadi lebih mudah
+
 ## Instalasi
+
+Untuk instalasi bisa dilihat dari situs Docker sendiri, berikut proses instalasi beberapa sistem operasi:
+
+* Ubuntu <https://docs.docker.com/installation/ubuntulinux/>
+* Mac OS X <https://docs.docker.com/installation/mac/>
+* Windows <https://docs.docker.com/installation/windows/>
 
 # Dasar-dasar Docker
 
