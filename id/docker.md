@@ -46,6 +46,26 @@ Untuk instalasi bisa dilihat dari situs Docker sendiri, berikut proses instalasi
 
 ## Perintah-perintah docker
 
+### Melihat daftar kontainer
+
+    $ sudo docker ps
+
+### Menghapus kontainer yang ada
+
+    $ sudo rm <container_id>
+
+### Melihat daftar image 
+
+    $ sudo docker images
+
+### Menghapus image dalam docker
+
+    $ sudo rmi <image_id>
+
+### Mengunduh images dari Docker hub
+
+    $ sudo docker pull <nama_image>
+
 # Dockerfile
 
 
