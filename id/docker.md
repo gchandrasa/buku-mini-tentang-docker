@@ -68,5 +68,7 @@ Untuk instalasi bisa dilihat dari situs Docker sendiri, berikut proses instalasi
 
 # Dockerfile
 
+Dockerfile adalah sebuah text file yang berisikan instruksi untuk membuat sebuah docker image.
+
 
 
