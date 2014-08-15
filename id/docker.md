@@ -72,3 +72,12 @@ Dockerfile adalah sebuah text file yang berisikan instruksi untuk membuat sebuah
 
 
 
+# Tips and Trik 
+
+### Menghentikan semua containers
+	
+	docker stop $(docker ps -a -q)
+
+### Menghentikan semua containers
+
+	docker rm $(docker ps -a -q)
